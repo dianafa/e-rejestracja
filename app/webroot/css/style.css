@@ -1,0 +1,23 @@
+h3 {
+	padding-top:1em;
+}
+
+#userbar {
+	float:right;
+}
+
+#userbar a {
+	color:#407DCC;
+}
+
+#userbar a:hover {
+	color:lightblue;
+}
+
+td.timeSlotFree {
+	background-color: green;
+}
+
+td.timeSlotBusy {
+	background-color: red;
+}
